@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: configserver
+    #笔记：微服务启动时先读这个 定义服务名 然后再去找application
+##########################################
+# 为什么放在bootstrap中？
